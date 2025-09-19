@@ -1,11 +1,4 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=System.out.println(%22Hello%2C+Universe!%22);&repeat=false" alt="Typing SVG" />
-</div>
 
-<div align="center">
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Abhay%20Tiwari&fontSize=60&fontAlignY=35&desc=Software%20Engineer%20%26%20Coffee%20Connoisseur&descAlignY=55&descAlign=center" alt="Header" />
-</div>
 
 <div align="center">
   <img src="![abhaygif](https://github.com/user-attachments/assets/073e127f-ef73-4a33-9bdc-729f5759c9c8)" alt="Abhay's Demo GIF" />
