@@ -1,8 +1,9 @@
 
 
 <div align="center">
-  <img src="![abhaygif](https://github.com/user-attachments/assets/073e127f-ef73-4a33-9bdc-729f5759c9c8)" alt="Abhay's Demo GIF" />
+  <img src="https://github.com/user-attachments/assets/073e127f-ef73-4a33-9bdc-729f5759c9c8" alt="Abhay's Demo GIF" />
 </div>
+
 
 <h1 align="center">Hi 👋, I'm Abhay Tiwari</h1>
 <h3 align="center">a passionate full stack developer from India ☕</h3>
