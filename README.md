@@ -3,7 +3,12 @@
 </div>
 
 <div align="center">
+
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Abhay%20Tiwari&fontSize=60&fontAlignY=35&desc=Software%20Engineer%20%26%20Coffee%20Connoisseur&descAlignY=55&descAlign=center" alt="Header" />
+</div>
+
+<div align="center">
+  <img src="![abhaygif](https://github.com/user-attachments/assets/073e127f-ef73-4a33-9bdc-729f5759c9c8)" alt="Abhay's Demo GIF" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Abhay Tiwari</h1>
