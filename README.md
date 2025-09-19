@@ -1,14 +1,14 @@
 
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/b9ff5909-978a-480d-acd9-3ee7657b155d" alt="Abhay's Demo GIF" width="600" height="200" />
+  <img src="https://github.com/user-attachments/assets/b9ff5909-978a-480d-acd9-3ee7657b155d" alt="Abhay's Demo GIF" width="800" height="300" />
 </div>
 
 
 
 
-<h1 align="center">Hi 👋, I'm Abhay Tiwari</h1>
-<h3 align="center">a passionate full stack developer from India ☕</h3>
+<h1 align="left">Hi 👋, I'm Abhay Tiwari</h1>
+<h3 align="left">a passionate full stack developer from India ☕</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhay4868&label=Profile%20views&color=0e75b6&style=flat" alt="abhay4868" /> </p>
 
